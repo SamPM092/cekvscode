@@ -6,3 +6,4 @@ ayam
 
 eaeaeaaeae
 nais
+ayam lagi
