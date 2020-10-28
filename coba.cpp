@@ -7,7 +7,7 @@ int main(){
 
     cout << "masukkan a dan b = ";
     cin >> a >> b;
-    cout << "\nMenjadi : " << a + b;
+    cout << "Menjadi : " << a + b;
 
     return 0;
 }
